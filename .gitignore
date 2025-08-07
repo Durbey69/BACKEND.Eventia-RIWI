@@ -1,0 +1,13 @@
+# Carpetas y archivos que Visual Studio genera y no deben ir al repositorio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vspscc
+*.vssscc
+*.dbmdl
+
+# Archivos temporales de build
+bin/
+obj/
